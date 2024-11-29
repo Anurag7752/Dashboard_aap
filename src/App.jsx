@@ -9,7 +9,6 @@ import SettingsPage from "./pages/SettingsPage";
 import ProductsPage from "./pages/ProductsPage";
 
 
-
 export default function App() {
   return (
     <div className="flex h-screen bg-gray-900 text-gray-100 overflow-hidden">
